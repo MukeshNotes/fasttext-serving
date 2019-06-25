@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import os
 import sys
+from io import open
 from setuptools import setup, find_packages
 
 readme = 'README.md'
